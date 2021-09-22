@@ -24,8 +24,10 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding-right: 5px;
 }
 .status-bar__column .fa-battery-full{
   margin: 0 5px;
+}
+.status-bar__column .fa-bolt{
+  padding-right: 10px;
 }
