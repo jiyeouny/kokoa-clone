@@ -43,3 +43,6 @@
   animation: hideSplashScreen .3s ease-in-out forwards;
   animation-delay: 2s;
 }
+.friends-page .status-bar{
+  background-color: transparent;
+}

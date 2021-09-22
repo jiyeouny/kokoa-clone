@@ -14,7 +14,7 @@
 }
 .screen-header__icons__cog{
   position: relative;
-  z-index: -1
+  z-index: 0;
 }
 .screen-header__icons__cog .new{
   left:-5px;

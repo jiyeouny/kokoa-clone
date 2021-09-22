@@ -16,9 +16,6 @@
 #no-landscape{
   z-index: 100;
 }
-#no-landscape span{
-  transform: rotate(90deg);
-}
 @media screen and (max-width: 625px) {
   #no-mobile{
     display: none;
