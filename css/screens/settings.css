@@ -11,6 +11,6 @@
   font-size: 22px;
   opacity: .8;
 }
-.settings__setting:last-child{
+.settings__setting-column:last-child{
   opacity: .5;
 }
