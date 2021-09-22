@@ -143,8 +143,8 @@
 }
 .reply__column:last-child>i, .reply__column:last-child button{
   position:absolute;
-  right: -8px;
-  top: 4px;
+  right: -1px;
+  top: 6px;
 } 
 .reply__column:last-child>i{
   right: 50px;
@@ -158,6 +158,9 @@
   width: 46px;
   height: 46px;
   font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .reply__column button i{
   opacity: 1;
